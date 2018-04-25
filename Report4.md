@@ -32,6 +32,4 @@ Step 3:
 After the porcess completed, there is a survery to fill 
 
 Step 4: 
-It created a .zip file, drag this file to the CD 
-
-Result: 
+It created a .zip file, drag this file to the DVD's file
