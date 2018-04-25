@@ -5,7 +5,7 @@ CISCI 2461-70/71
 Report 4
 
 This weekend our group is focus on running a live window for the test of our project. Window is the last step that we are working on. 
-We already got everything in places. 
+We already got everything in place. 
 
 Here are the website I used to install a live window 10:
 
